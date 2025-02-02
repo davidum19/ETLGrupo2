@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Barcos2.0", "Barcos2.0\Barcos2.0.dtproj", "{007F332E-13FC-46EB-8E88-DE4FCFDE884C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007F332E-13FC-46EB-8E88-DE4FCFDE884C}.Development|Default.ActiveCfg = Development
+		{007F332E-13FC-46EB-8E88-DE4FCFDE884C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E30F30-00CE-4798-9B00-27FE37F0FDB1}
+	EndGlobalSection
+EndGlobal
